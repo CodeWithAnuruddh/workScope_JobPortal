@@ -138,3 +138,4 @@ export const getSingleJob = catchAsyncErrors(async (req, res, next) => {
     return next(new ErrorHandler(`Invalid ID / CastError`, 404));
   }
 });
+
