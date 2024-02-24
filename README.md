@@ -1,8 +1,8 @@
-# MERN Job Portal
-
-## Description
-
+<H1 align ="center" > MERN Job Portal </h1>
+<h5  align ="center"> 
 A full-stack job portal application built using MongoDB, Express, React, and Node.js (MERN stack). Connect job seekers with potential employers and provide a seamless job search and application experience.
+ </h5>
+<br/>
 
 ## Key Features
 
@@ -52,10 +52,9 @@ A full-stack job portal application built using MongoDB, Express, React, and Nod
 <!-- Include screenshots of your application -->
 
 ## Author
-
-- Github: [Your GitHub Profile](https://github.com/yourusername)
-- Linkedin: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin)
-- Email: [Your Email](mailto:youremail@example.com)
+- Github: [Aditya Raj](https://github.com/RajAditya01)
+- Linkedin: [Aditya Raj](https://www.linkedin.com/in/aditya-raj-aa923721a/)
+- Email: [adityavishal903@gmail.com](mailto:adityavishal903@gmail.com)
 
 ## License
 
