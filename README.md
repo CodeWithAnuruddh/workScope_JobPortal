@@ -60,7 +60,7 @@ A full-stack job portal application built using MongoDB, Express, React, and Nod
 
 MIT License
 
-Copyright (c) 2024 Your Name
+Copyright (c) 2024 Aditya Raj
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -71,4 +71,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 Modifications to the Software are not permitted without explicit written
-permission from the original copyright holder, Your Name.
+permission from the original copyright holder, Aditya Raj.
