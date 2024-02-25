@@ -48,8 +48,13 @@ A full-stack job portal application built using MongoDB, Express, React, and Nod
 - [MongoDB](https://www.mongodb.com/)
 
 ## Screenshots
-
-<!-- Include screenshots of your application -->
+![image](https://github.com/RajAditya01/MERN-Job-Portal/assets/101439988/c8ce0b8f-3683-4a62-af60-63b95b51de02)
+---- -
+![image](https://github.com/RajAditya01/MERN-Job-Portal/assets/101439988/efd68d93-d46e-461a-944c-6e5a3d014f5f)
+---- -
+![image](https://github.com/RajAditya01/MERN-Job-Portal/assets/101439988/ad4fac7f-1e71-4a72-9b9a-ac32b10aa8e3)
+---- -
+![image](https://github.com/RajAditya01/MERN-Job-Portal/assets/101439988/71ec690f-a0f9-43f3-8302-687fca30895c)
 
 ## Author
 - Github: [Aditya Raj](https://github.com/RajAditya01)
