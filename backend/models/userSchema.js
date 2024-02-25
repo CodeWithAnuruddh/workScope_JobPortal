@@ -2,6 +2,7 @@ import mongoose from "mongoose";
 import validator from "validator";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
+import ms from "ms";
 const userSchema = new mongoose.Schema({
   name: {
     type: String,
@@ -52,12 +53,11 @@ userSchema.methods.comparePassword = async function (enteredPassword) {
 
 //GENERATING A JWT TOKEN WHEN A USER REGISTERS OR LOGINS, IT DEPENDS ON OUR CODE THAT WHEN DO WE NEED TO GENERATE THE JWT TOKEN WHEN THE USER LOGIN OR REGISTER OR FOR BOTH. 
 userSchema.methods.getJWTToken = function () {
-  const expiresIn = parseInt(process.env.JWT_EXPIRES, 10); // Convert to seconds
+  const expiresIn = ms(process.env.JWT_EXPIRE); // Convert duration string to milliseconds
 
   return jwt.sign({ id: this._id }, process.env.JWT_SECRET_KEY, {
     expiresIn: expiresIn,
   });
 };
-
 
 export const User = mongoose.model("User", userSchema);
