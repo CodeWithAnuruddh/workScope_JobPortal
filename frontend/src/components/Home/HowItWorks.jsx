@@ -21,8 +21,7 @@ const HowItWorks = () => {
               <MdFindInPage />
               <p>Find a Job/Post a Job</p>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+              Explore a wide range of job opportunities tailored to your skills and preferences. JobZee makes it easy for you to discover the perfect job by using advanced filters and algorithms. If you're an employer, post job listings to attract qualified candidates. Highlight key details about the job, such as responsibilities, qualifications, and benefits, to make your listing stand out.
               </p>
             </div>
             <div className="card">
