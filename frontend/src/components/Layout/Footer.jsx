@@ -9,15 +9,15 @@ const Footer = () => {
 
   return (
     <footer className={isAuthorized ? "footerShow" : "footerHide"}>
-      <div>&copy; All Rights Reserved By Aditya Raj.</div>
+      <div>&copy; All Rights Reserved By Anuruddh Pratap Singh.</div>
       <div>
-        <Link to={"https://www.linkedin.com/in/aditya-raj-aa923721a/"} target="_blank">
+        <Link to={"https://www.linkedin.com/in/anniac/"} target="_blank">
           <FaLinkedin />
         </Link>
-        <Link to={"https://www.instagram.com/_aadii.01/"} target="_blank">
+        <Link to={"https://www.instagram.com/apsingh56/"} target="_blank">
           <RiInstagramFill />
         </Link>
-        <Link to={"https://github.com/RajAditya01"} target="_blank">
+        <Link to={"https://github.com/codeWithAnuruddh"} target="_blank">
           <FaGithub />
         </Link>
       </div>

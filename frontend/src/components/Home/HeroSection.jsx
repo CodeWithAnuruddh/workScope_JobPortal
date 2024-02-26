@@ -36,9 +36,7 @@ const HeroSection = () => {
             <h1>Find a job that suits</h1>
             <h1>your interests and skills</h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-              voluptate repellat modi quidem aliquid eaque ducimus ipsa et,
-              facere mollitia!
+              Kickstart your career with JobZee Jobs — a smart, easy-to-use platform that connects job seekers with top employers. Whether you're a fresher or a pro, find jobs that match your skills and apply in seconds
             </p>
           </div>
           <div className="image">
