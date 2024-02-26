@@ -28,8 +28,9 @@ const HowItWorks = () => {
               <IoMdSend />
               <p>Apply For Job/Recruit Suitable Candidates</p>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+              Apply for your dream job with just a few clicks. Customize your application by showcasing your relevant skills and experience. If you're an employer looking to hire, review applications from potential candidates and connect with those who align with your company's needs. JobZee streamlines the recruitment process, making it efficient and straightforward for both job seekers and employers.
+
+JobZee is your one-stop platform for a seamless job search or recruitment experience. Join today and take the next step toward your career goals!
               </p>
             </div>
           </div>
