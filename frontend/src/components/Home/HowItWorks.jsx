@@ -14,8 +14,7 @@ const HowItWorks = () => {
               <FaUserPlus />
               <p>Create Account</p>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+              Sign up for JobZee by providing your basic information, such as your name, email address, and a secure password. Completing your profile will help JobZee tailor job recommendations and enhance your overall experience on the platform.
               </p>
             </div>
             <div className="card">
